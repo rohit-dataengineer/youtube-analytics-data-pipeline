@@ -1,2 +1,3 @@
-# youtube-analytics-data-pipeline
-Real-time YouTube data pipeline using Python, Airflow, PostgreSQL &amp; Power BI
+# YouTube Analytics Data Pipeline
+
+This project simulates a cloud-based data pipeline that collects, stores, processes, and visualizes YouTube channel data using GCP services like BigQuery, Cloud Storage, Pub/Sub, and Dataflow.
